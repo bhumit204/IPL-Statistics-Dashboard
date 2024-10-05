@@ -1,0 +1,9 @@
+{
+	"name": "IPL-stat-Dashboard",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b9ce66dd-9e82-4d85-a465-53a5f361cfdc",
+		"tenantId": "b53024cd-1632-4b35-a425-758d118b46c6"
+	}
+}
